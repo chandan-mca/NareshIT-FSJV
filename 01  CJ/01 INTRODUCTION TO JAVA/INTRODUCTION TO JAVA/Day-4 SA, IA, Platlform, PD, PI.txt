@@ -1,0 +1,164 @@
+Charpter #1: Introduction to Java
+=================================
+1. What is Java?
+2. Why Java is invented?
+3. Who invented Java?
+4. What is SA and IA?
+
+5. What is platform, platform dependent, platform independent?
+6. Why C and C++ programs are platform dependent?
+7. How Java achieved platform independency?
+8. Important facts on Java program and Java software?
+
+9. Types of Java sotwares?
+10. Differences between JDK, JRE, JVM and JIT?
+11. Why JRE is removed in Java 11v?
+12. Installing JDK software?
+
+13. Software required to develop, compile and execute a Java program?
+14. Java Programming elements and thier purpose?
+15. Essential statements?
+
+16. Steps to develop a Java program?
+17. Hello, World program development?
+18. Compiing and execution procedure?
+19. Compiler and JVM activities?
+20. Types of errors, solving CEs and REs by our own?
+=====================================================
+
+01. What is Java?
+    - Java ia platform independent
+      Object-Oriented programming langauge	
+
+02. Why Java?
+    - Java is invented for achieving platorm independency
+      for developing internet based business applications
+
+    - The main purpose of Java is developing 
+      internet applications (or) web applications (or) websites 	
+
+    - Note: by using Java we can develop both 
+      Stand-alone applications and also internet applications
+	    - if we use only Core Java, then application is SA
+	    - if we use Core Java + Adv Java, then the application is IA
+
+03. Who invented Java?
+     - Java is invented by Mr. James Gosling 
+       in SUN Microsystems in the year June 1991
+       for developing highy secured network based 
+       business applications.
+    	
+04. Types of applications?
+     - All softwares or projects are broadly 
+       divided into 2 types
+	1. Stand-alone applications
+	2. Internet applications
+
+     - An application that is installed in one computer
+       and can not be accessed from other computers via
+       internet is called stand-alone applications.
+
+       	Ex: Calc, MS-Office, Anti Virus, Game softwares, 
+	    VLC, browser, mobile apps, etc...
+
+
+
+
+	- A SA is a single user and single computer application
+
+	
+     - An application that is installed in one computer
+       and can be accessed from other computers via
+       internet is called internet application.
+
+     - For example: amazon.in, facebook.com, instagram.com,
+                    gmail.com, youtube.com, nareshit.com,
+		    hkprogrammingworld.in, etc...
+
+
+
+     - A IA is a multi user and multi computer application
+       it means at a time multiple people from different mulitple 
+       computers can  access this internet application
+
+       - For example: At this point of second many users
+         can access 'amazon' project through our the world 
+
+05. What is platform, platform dependent, platform independent?
+     Platform
+     ========
+       - A platform is an environment in which 
+         a program is loaded, executed and produced output
+
+       - A platform can be a software only platform or 
+         hardware only platform or both
+
+	  - For storing a program we need memory
+	  - For running a program we need a software
+
+      => A computer platform is both SW and HW platform
+         that is [OS + Processor + Hard Disk + Ram]
+
+
+      => C and C++ programs platform is software only platform
+         it is OS. It is means C and C++ programs are 
+	 executed directly by OS 
+
+      => Java programs platform is JVM(Java Virtual Machine)
+         It is means Java program is not executed 
+	 directly by OS, instead it is exeecuted by 
+	 one intermediate software called JVM.
+
+      => Python programs platform is PVM(Python Virtual Machine)
+      => .Net programs platform is CLR(Common Language Runtime)
+      => HTML pages platform is Browser
+
+      => Audio and Video files platform is Media Player (VLC)
+      => Image files platform is image reader 'google Photos' or 'paint'
+
+ Platform dependency
+ ===================
+     - A program that is developed in one OS (say windows),
+       if it can not be executed in different OS (say Linux and Mac),
+       then that program is called Platform dependent program.
+
+     - The programming language that is used to develop this program
+       is called platform dependent programming language.
+
+     - For example: C and C++ PLs and their programs are PD
+       
+
+
+ Platform Independency
+ ===================
+     - A program that is developed in one OS (say windows),
+       if it can be executed in different OS (say Linux and Mac),
+       then that program is called Platform independent program.
+
+     - The programming language that is used to develop this program
+       is called platform independent programming language.
+
+     - For example: Java, Python PLs and their programs are PI
+
+
+
+
+
+
+	Note:
+	  - If a program is directly executed by an OS,
+	     then this program is PD
+
+	  - If a program is not directly executed by an OS,
+	    if it is executed by an intermediate software like JVM
+	    then this program is PI
+
+06. Why C and C++ PLs are platform dependent?
+	       
+
+
+
+
+
+
+         
